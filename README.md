@@ -1,1 +1,1 @@
-# SampleMinimalAPI
+Simple Sample Minimal API
